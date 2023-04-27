@@ -13,4 +13,4 @@ paddlepaddle or paddlepaddle-gpu See https://www.paddlepaddle.org.cn/install/qui
 ## Usage
 ### Example
 
-`python blurtext.py input_video.mp4 --use_gpu --bounding_rect 0 0 1920 1080 --output_path output_video.mp4`
+`python blurtext.py input_video.mp4 --use_gpu --bounding_rect "0 0 1920 1080" --output_path output_video.mp4`
